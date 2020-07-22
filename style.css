@@ -1,0 +1,109 @@
+body{
+
+    background-color:black;
+}
+#text{
+    display:block;
+    text-align: center;
+    color:white;
+    font: italic 40px/10px serif;
+    font-family: 'Faustina', serif;
+}
+h1{
+    color:white;
+    text-align: center;
+    padding:35px;
+    
+}
+#header{
+    padding:20px;
+    background-color:black;
+    display:block;
+}
+#bottom{
+    width:auto;
+    height:auto;
+    display:block;
+    padding:20px;
+    background-color:white;
+    
+}
+#readmore{
+    color:white;
+    text-align:center;
+    display:inline-block;
+    font-family: 'Mulish', sans-serif;
+    width: auto;
+    font: italic 15px sans-serif;
+   
+    
+}
+#contact{
+    color:white;
+    text-align:center;
+    display:inline-block;
+    font-family: 'Mulish', sans-serif;
+    
+    width: auto;
+    font: italic 15px sans-serif;
+    padding:0% 0% 0% 5%;
+    
+}
+#link{
+    color:white;
+    text-decoration:none;
+}
+
+div.footer-wrapper{
+    width:auto;
+    text-align:center;
+    margin:0px 0px 40px 0px;
+
+}
+#bottom{
+    width:auto;
+    height:auto;
+    display:block;
+    padding:20px;
+    background-color:white;
+    
+    
+}
+#container-one{
+    width:100px;
+    display:inline-block;
+    height:100px;
+    /*background-color:pink;*/
+    
+}
+#container-two{
+    width:100px;
+    display:inline-block;
+    height:100px;
+    /*background-color:blue;*/
+}
+#container-three{
+    width:100px;
+    display:inline-block;
+    height:100px;
+    
+    /*background-color:purple;*/
+
+}
+img#photo-one{
+    width: auto;
+    height: auto;
+}
+img#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img#photo-two{
+    width: auto;
+    height: auto;
+}
+img#photo-three{
+    width: auto;
+    height: auto;
+}
